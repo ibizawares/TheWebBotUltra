@@ -1,19 +1,19 @@
-# `♦️HATSUNE-MIKU-ULTRA💥`
+# `♦️TheWebBotUltra💥`
 
 ### `🏓DUDAS SOBRE EL BOT?, CONTACTANOS🍁`
-<a href="http://wa.me/5212412377467" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/5212411233838" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5212295943790" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/5212295943790" target="blank"><img src="https://img.shields.io/badge/OFC-YOVANI_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ### `⛄GRUPO DE INFORMACIÓN DEL BOT Y ACTUALIZACIONES🧿`
 
-<a href= "https://chat.whatsapp.com/Jhs2WrdiNzY3CML7shPwot" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href= "https://chat.whatsapp.com/Jhs2WrdiNzY3CML7st" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 > LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
-<a href="https://api.whatsapp.com/send/?phone=521241719888&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=5212295943790&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > NO SPAMEAR COMANDOS
 
@@ -35,8 +35,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA)
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/ibizawares/TheWebBotUltra/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ibizawares/TheWebBotUltra/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾
 PRIMERA OPCIÓN `
@@ -50,7 +50,7 @@ pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget &&
 ```
 
 ```bash
-wget -O - https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/master/install.sh | bash
+wget -O - https://raw.githubusercontent.com/ibizawares/TheWebBotUltra/master/install.sh | bash
 ```
 
 
@@ -70,7 +70,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git && cd HATSUNE-MIKU-ULTRA
+git clone https://github.com/ibizawares/TheWebBotUltra.git && cd HATSUNE-MIKU-ULTRA
 ```
 
 ```bash
@@ -94,7 +94,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HATSUNE-MIKU-ULTRA
+> cd TheWebBotUltra
 ```
 
 ```bash
@@ -107,7 +107,7 @@ npm start
 ### `ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:`
 
 ```bash
-> cd HATSUNE-MIKU-ULTRA
+> cd TheWebBotUltra
 ```
 
 ```bash
@@ -119,7 +119,7 @@ npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
+<a href="https://boxmineworld.com"><img src="https://raw.githubusercontent.com/ibizawares/TheWebBotUltra/master/src/Pre%20Bot%20Publi.png" width="450" height="240" alt="JPG"/></a>
 - Pagina Oficial: [https://boxmineworld.com](https://boxmineworld.com)
 - Dashboard: [https://dash.boxmineworld.com](https://dash.boxmineworld.com)
 - Panel: [https://panel.boxmineworld.com](https://panel.boxmineworld.com)
@@ -135,7 +135,7 @@ npm start
 - HATSUNE-MIKU - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
 
-## `CREADO POR OFC-YOVANI` 
-<a href="https://github.com/OFC-YOVANI"><img src="https://i.imgur.com/JP52fdP.jpg" width="250" height="250" alt="YOVANI"/></a>
+## `CREADO POR theweb` 
+<a href="https://github.com/ibizawares"><img src="https://i.imgur.com/JP52fdP.jpg" width="250" height="250" alt="theweb"/></a>
   
-`HATSUNE-MIKU-ULTRA - By YOVANI`
+`TheWebBotUltra - By ibizawares`
