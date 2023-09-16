@@ -24,6 +24,7 @@
     "bugs": {
         "url": "https://github.com/ibizawares/TheWebBotUltra/issues"
     },
+    
     "license": "GPL-3.0-or-later",
     "dependencies": {
         "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@6.4.1",
