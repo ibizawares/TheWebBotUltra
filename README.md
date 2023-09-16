@@ -135,7 +135,7 @@ npm start
 - HATSUNE-MIKU - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
 
 
-## `CREADO POR theweb` 
+## `EDITADO POR theweb` 
 <a href="https://github.com/ibizawares"><img src="https://i.imgur.com/JP52fdP.jpg" width="250" height="250" alt="theweb"/></a>
   
 `TheWebBotUltra - By ibizawares`
